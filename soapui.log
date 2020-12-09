@@ -1,0 +1,16 @@
+2020-12-09 11:17:20,757 WARN  [SoapUI] Missing folder [C:\Users\C5282387\Desktop\APITesting\my-app\ext] for external libraries
+2020-12-09 11:17:21,096 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\C5282387\soapui-settings.xml]
+2020-12-09 11:17:33,480 INFO  [WsdlProject] Loaded project from [file:/C:/Users/C5282387/Desktop/APITesting/my-app/ECommerce-soapui-project.xml]
+2020-12-09 11:17:34,200 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [ECommerce]
+2020-12-09 11:17:34,203 INFO  [SoapUITestCaseRunner] Running Project [ECommerce], runType = SEQUENTIAL
+2020-12-09 11:17:34,262 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [FlowBased Testing]
+2020-12-09 11:17:34,279 INFO  [SoapUITestCaseRunner] running step [SignUp]
+2020-12-09 11:17:46,932 INFO  [SoapUITestCaseRunner] running step [Login]
+2020-12-09 11:17:50,919 INFO  [log] eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1ZmM5YmQ1NGNjOTQxMDAwMTczOWQxOTciLCJpYXQiOjE2MDc0OTI4NjQsImV4cCI6MTYwNzU3OTI2NH0.CQ1tVtB9t4EQsU9b92zn3P8O06QaA-0q4XO8MQJgvqs
+2020-12-09 11:17:50,972 INFO  [SoapUITestCaseRunner] Assertion [Script Assertion] has status VALID
+2020-12-09 11:17:50,973 INFO  [SoapUITestCaseRunner] running step [GetAllUser]
+2020-12-09 11:17:53,068 INFO  [log] 5f23b207db4859001755ba50
+2020-12-09 11:17:53,089 INFO  [SoapUITestCaseRunner] Assertion [Script Assertion] has status VALID
+2020-12-09 11:17:53,090 INFO  [SoapUITestCaseRunner] running step [DeleteUser]
+2020-12-09 11:17:53,867 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [FlowBased Testing], time taken: 18367ms, status: FINISHED
+2020-12-09 11:17:53,875 INFO  [SoapUITestCaseRunner] Project [ECommerce] finished with status [FINISHED] in 19663ms
